@@ -1,5 +1,5 @@
 # exercise11
-## TypeScript GitHub Repository - Printing Friends' Names
+## TypeScript - Printing Friends' Names
 
 This TypeScript code demonstrates how to store the names of friends in an array called `names` and then print each person's name by accessing each element in the list one at a time.
 
